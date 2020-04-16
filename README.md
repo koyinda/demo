@@ -1,2 +1,2 @@
 # demo
-a simple crud operation as REST API that works on customer entity ( fullname , mobile, email, address ), use jwt to secure the endpoints
+a simple crud operation as REST API that works on customer entity ( fullname , mobile, email, address ), use jwt to secure the endpoints made with java (Spring Boot)
